@@ -1,5 +1,8 @@
 A utilização de religadores automáticos para proteção, automação e melhoria da rede elétrica.
 
+![broa rede interligada](https://github.com/user-attachments/assets/cad627e5-e13e-4920-8b96-0c604e7fb630)
+
+
 Saul de Campos Santos Neto (FHO)
 Prof. Dr. Daniel Augusto Pagi Ferreira (FHO)
 
